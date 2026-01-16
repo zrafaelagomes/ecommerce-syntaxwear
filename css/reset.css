@@ -50,8 +50,11 @@ a {
   text-decoration: none;
 }
 
-ul, ol {
+ul, 
+ol {
   list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 /* Make images easier to work with */
