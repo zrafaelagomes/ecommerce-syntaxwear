@@ -52,8 +52,8 @@
 	background-size: cover;
 }
 
-@media (max-width: 500px) {
-	.category-card {
+@media (max-width:500px) {
+	.category-card{
 		width: 100%;
 	}
 }

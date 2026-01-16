@@ -10,10 +10,10 @@ main{
     margin: 0 auto;
 }
 
-@media (max-width: 1280px) {
-    main{
-        padding: 0.625rem;
-    }
+@media (max-width:1280px) {
+	main{
+		padding: 0.625rem;
+	}
 }
 
 .btn{
@@ -43,4 +43,3 @@ main{
     color: #ffffff;
     border-color: #6329A2;
 }
-

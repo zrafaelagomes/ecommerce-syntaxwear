@@ -4,7 +4,7 @@
 	top: 60px;
 	left: 50%;
 	transform: translate(-50%);
-	width: 1260px;
+	width: calc(100% - 210px);
 	border-radius: 15px;
 	z-index: 999;
 	display: flex;
@@ -49,11 +49,9 @@
 
 .nav-container{
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-around;
 	width: 100%;
 	align-items: center;
-	flex: 1;
-	margin-left: 10rem;
 }
 
 .menu-toggle{
